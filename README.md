@@ -19,5 +19,5 @@ simply download or clone this repository and customize the HTML document and ass
 - `app.js`: JavaScript file for adding interactivity and functionality to the website.
 - `img/`  : Directory containing images used in the website, including product images, icons, and background images.
 
-##Customize
+## Customize
 Feel free to customize this template according to your needs. You can add more sections, modify the styling, integrate with backend systems for dynamic content, or enhance the interactivity using additional JavaScript functionalities.
