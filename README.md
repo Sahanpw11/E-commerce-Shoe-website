@@ -1,7 +1,7 @@
-#Ecommerce Store HTML Template
+# Ecommerce Store HTML Template
 Welcome to the Nike Store HTML template repository! This project provides a basic structure for an online store website showcasing Nike products. The HTML document includes various elements such as navigation bars, product sliders, featured items, product details sections, image galleries, and a footer with navigation links and social media icons.
 
-##Features
+## Features
 Navigation: Includes a navigation bar with links to different sections of the website.
 Product Showcase: Features a slider showcasing different Nike products with images, titles, prices, and buy buttons.
 Featured Items: Displays featured items with descriptions and prices.
@@ -11,7 +11,7 @@ Footer: Contains navigation links, a newsletter subscription form, and social me
 Usage
 To use this template, simply download or clone this repository and customize the HTML document and associated CSS and JavaScript files as needed. You can modify the content, images, styles, and functionality to suit your specific requirements for your online store website.
 
-##Structure
+## Structure
 index.html: Main HTML document containing the structure and content of the Nike Store website.
 style.css: CSS file for styling the HTML elements and layout of the website.
 app.js: JavaScript file for adding interactivity and functionality to the website.
